@@ -7,4 +7,4 @@ You can test the UI design from storyboard
 You just need to run the code on simulator.
 
 Note:
-API Key got invalid after sometime, you just need to develop the new one if needed.
+API Key got invalid after sometime, you just need to develop the new one if needed and paste it at the end of URL given in globals.swift 
